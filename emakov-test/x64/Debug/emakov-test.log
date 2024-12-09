@@ -1,0 +1,8 @@
+﻿  test.cpp
+G:\sys_prog\lab4\emakov-test\stringProcessor.h(10,34): warning C4114: Множественное использование одного и того же квалификатора типа.
+  (компиляция исходного файла "/test.cpp")
+  
+G:\sys_prog\lab4\emakov-test\stringProcessor.h(20,12): warning C4267: return: преобразование из "size_t" в "const int32_t"; возможна потеря данных
+  (компиляция исходного файла "/test.cpp")
+  
+  emakov-test.vcxproj -> G:\sys_prog\lab4\emakov-test\x64\Debug\emakov-test.exe
